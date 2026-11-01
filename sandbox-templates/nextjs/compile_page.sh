@@ -17,4 +17,4 @@ function ping_server() {
 }
 
 ping_server &
-cd /home/user && npx next dev --turbopack
+cd /home/user/nextjs-app && npx next dev --turbopack
