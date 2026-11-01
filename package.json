@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@e2b/code-interpreter": "^2.9.0",
     "@inngest/agent-kit": "^0.13.2",
     "@prisma/client": "^6.10.0",
     "@tanstack/react-query": "^5.105.0",
